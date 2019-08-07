@@ -1,4 +1,4 @@
-package com.ailhanli.c10.search;
+package com.ailhanli.c04.tree;
 
 public class CheckBSTBalanced {
 
